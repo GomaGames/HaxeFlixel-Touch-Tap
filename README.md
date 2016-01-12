@@ -16,7 +16,7 @@ _running the lime ios simulator_
 ![Touch events in simulator](/doc/inputevents.gif)
 
 ```
-lime test ios
+lime test ios -simulator
 ```
 
 ----
